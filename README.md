@@ -14,4 +14,4 @@ Member 6 Rafael Kenneth Mercado
 
 Member 7 Shiena Marie Nidua
 
-This repository contains all the files for Group 2's outputs for the PostLab under Lab 3.
+This repository contains all the files for Group 2's outputs under Lab 3.
